@@ -1,5 +1,5 @@
 venv
 __pycache__
 static
-django.db.backends.postgresql
-sqlite3
+*.postgresql
+*.sqlite3
